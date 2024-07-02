@@ -1,5 +1,4 @@
-{
-    "products": [
+export const products = [
         {
             "id": "1",
             "title": "Smartphone",
@@ -841,4 +840,3 @@
             "noOfReviews": "75"
         }
     ]
-}
