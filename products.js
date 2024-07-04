@@ -845,7 +845,7 @@ export const categories = [
     {
         "id":"1",
         "name":"electronics",
-        "image":"https://ecommercebackend-wveh.onrender.com/images/c1/1.webp"
+        "image":"https://ecommercebackend-wveh.onrender.com/images/c1/1.jpg"
 
     },
     {
