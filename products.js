@@ -283,7 +283,7 @@ export const products = [
             "id": "21",
             "title": "Dress",
             "description": "Summer dress with floral print.",
-            "images": "url_to_image_21",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/21/1.avif", "https://ecommercebackend-wveh.onrender.com/images/21/2.avif", "https://ecommercebackend-wveh.onrender.com/images/21/3.avif"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "50",
@@ -297,7 +297,7 @@ export const products = [
             "id": "22",
             "title": "Jeans",
             "description": "High-waisted skinny jeans.",
-            "images": "url_to_image_22",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/22/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/22/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/22/3.jpg"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "40",
@@ -311,7 +311,7 @@ export const products = [
             "id": "23",
             "title": "Jacket",
             "description": "Denim jacket with button closure.",
-            "images": "url_to_image_23",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/23/1.webp", "https://ecommercebackend-wveh.onrender.com/images/23/2.webp", "https://ecommercebackend-wveh.onrender.com/images/23/3.jpeg"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "60",
@@ -325,7 +325,7 @@ export const products = [
             "id": "24",
             "title": "Blouse",
             "description": "Silk blouse with ruffle sleeves.",
-            "images": "url_to_image_24",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/24/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/24/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/24/3.jpg"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "35",
