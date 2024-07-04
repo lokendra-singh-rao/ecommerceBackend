@@ -1,7 +1,7 @@
 export const products = [
         {
             "id": "1",
-            "title": "Smartphone",
+            "title": "Apple Iphone 15",
             "description": "Latest model with high resolution camera and fast processor.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/1/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/3.jpeg"],
             "category": "electronics",
@@ -15,7 +15,7 @@ export const products = [
         },
         {
             "id": "2",
-            "title": "Laptop",
+            "title": "Apple Macbook Pro",
             "description": "Powerful laptop with 16GB RAM and 1TB SSD.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/2/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/3.jpeg"],
             "category": "electronics",
@@ -29,7 +29,7 @@ export const products = [
         },
         {
             "id": "3",
-            "title": "Headphones",
+            "title": "Sony Headphones WC30",
             "description": "Noise-cancelling wireless headphones.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/3/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/3.jpg"],
             "category": "electronics",
@@ -43,7 +43,7 @@ export const products = [
         },
         {
             "id": "4",
-            "title": "Smartwatch",
+            "title": "Apple Watch SE",
             "description": "Smartwatch with fitness tracking features.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/4/1.png", "https://ecommercebackend-wveh.onrender.com/images/4/2.png", "https://ecommercebackend-wveh.onrender.com/images/4/3.png"],
             "category": "electronics",
@@ -57,7 +57,7 @@ export const products = [
         },
         {
             "id": "5",
-            "title": "Bluetooth Speaker",
+            "title": "Jbl Bass Speaker",
             "description": "Portable Bluetooth speaker with high-quality sound.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/5/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/3.jpg"],
             "category": "electronics",
@@ -71,7 +71,7 @@ export const products = [
         },
         {
             "id": "6",
-            "title": "Tablet",
+            "title": "Apple Tab M1",
             "description": "Tablet with 10-inch display and long battery life.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/6/1.png", "https://ecommercebackend-wveh.onrender.com/images/6/2.png", "https://ecommercebackend-wveh.onrender.com/images/6/3.jpeg"],
             "category": "electronics",
@@ -85,7 +85,7 @@ export const products = [
         },
         {
             "id": "7",
-            "title": "Camera",
+            "title": "Canon D300 Camera",
             "description": "Digital camera with 20MP lens and 4K video recording.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/7/1.png", "https://ecommercebackend-wveh.onrender.com/images/7/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/7/3.png"],
             "category": "electronics",
@@ -99,7 +99,7 @@ export const products = [
         },
         {
             "id": "8",
-            "title": "Gaming Console",
+            "title": "XBox Console 1TB",
             "description": "Latest gaming console with 1TB storage.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/8/1.webp", "https://ecommercebackend-wveh.onrender.com/images/8/2.webp", "https://ecommercebackend-wveh.onrender.com/images/8/3.webp"],
             "category": "electronics",
@@ -113,7 +113,7 @@ export const products = [
         },
         {
             "id": "9",
-            "title": "E-reader",
+            "title": "Easy E-reader",
             "description": "E-reader with adjustable lighting and long battery life.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/9/1.webp", "https://ecommercebackend-wveh.onrender.com/images/9/2.webp", "https://ecommercebackend-wveh.onrender.com/images/9/3.webp"],
             "category": "electronics",
@@ -127,7 +127,7 @@ export const products = [
         },
         {
             "id": "10",
-            "title": "Drone",
+            "title": "Dji Drone A3K",
             "description": "Drone with HD camera and GPS.",
             "images": ["https://ecommercebackend-wveh.onrender.com/images/10/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/3.jpeg"],
             "category": "electronics",
