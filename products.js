@@ -3,7 +3,7 @@ export const products = [
             "id": "1",
             "title": "Smartphone",
             "description": "Latest model with high resolution camera and fast processor.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/1/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/3.jpeg"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/1/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "1000",
@@ -17,7 +17,7 @@ export const products = [
             "id": "2",
             "title": "Laptop",
             "description": "Powerful laptop with 16GB RAM and 1TB SSD.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/2/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/3.jpeg"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/2/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "1500",
@@ -31,7 +31,7 @@ export const products = [
             "id": "3",
             "title": "Headphones",
             "description": "Noise-cancelling wireless headphones.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/3/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/3.jpg"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/3/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/3.jpg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "200",
@@ -45,7 +45,7 @@ export const products = [
             "id": "4",
             "title": "Smartwatch",
             "description": "Smartwatch with fitness tracking features.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/4/1.png", "https://ecommercebackend-wveh.onrender.com/images/4/2.png", "https://ecommercebackend-wveh.onrender.com/images/4/3.png"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/4/1.png", "https://ecommercebackend-wveh.onrender.com/images/4/2.png", "https://ecommercebackend-wveh.onrender.com/images/4/3.png"],
             "category": "electronics",
             "pricing": {
                 "mrp": "300",
@@ -59,7 +59,7 @@ export const products = [
             "id": "5",
             "title": "Bluetooth Speaker",
             "description": "Portable Bluetooth speaker with high-quality sound.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/5/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/3.jpg"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/5/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/3.jpg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "100",
@@ -73,7 +73,7 @@ export const products = [
             "id": "6",
             "title": "Tablet",
             "description": "Tablet with 10-inch display and long battery life.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/6/1.png", "https://ecommercebackend-wveh.onrender.com/images/6/2.png", "https://ecommercebackend-wveh.onrender.com/images/6/3.jpeg"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/6/1.png", "https://ecommercebackend-wveh.onrender.com/images/6/2.png", "https://ecommercebackend-wveh.onrender.com/images/6/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "500",
@@ -87,7 +87,7 @@ export const products = [
             "id": "7",
             "title": "Camera",
             "description": "Digital camera with 20MP lens and 4K video recording.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/7/1.png", "https://ecommercebackend-wveh.onrender.com/images/7/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/7/3.png"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/7/1.png", "https://ecommercebackend-wveh.onrender.com/images/7/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/7/3.png"],
             "category": "electronics",
             "pricing": {
                 "mrp": "700",
@@ -101,7 +101,7 @@ export const products = [
             "id": "8",
             "title": "Gaming Console",
             "description": "Latest gaming console with 1TB storage.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/8/1.webp", "https://ecommercebackend-wveh.onrender.com/images/8/2.webp", "https://ecommercebackend-wveh.onrender.com/images/8/3.webp"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/8/1.webp", "https://ecommercebackend-wveh.onrender.com/images/8/2.webp", "https://ecommercebackend-wveh.onrender.com/images/8/3.webp"],
             "category": "electronics",
             "pricing": {
                 "mrp": "400",
@@ -115,7 +115,7 @@ export const products = [
             "id": "9",
             "title": "E-reader",
             "description": "E-reader with adjustable lighting and long battery life.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/9/1.webp", "https://ecommercebackend-wveh.onrender.com/images/9/2.webp", "https://ecommercebackend-wveh.onrender.com/images/9/3.webp"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/9/1.webp", "https://ecommercebackend-wveh.onrender.com/images/9/2.webp", "https://ecommercebackend-wveh.onrender.com/images/9/3.webp"],
             "category": "electronics",
             "pricing": {
                 "mrp": "150",
@@ -129,7 +129,7 @@ export const products = [
             "id": "10",
             "title": "Drone",
             "description": "Drone with HD camera and GPS.",
-            "image": ["https://ecommercebackend-wveh.onrender.com/images/10/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/3.jpeg"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/10/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "600",
@@ -143,7 +143,7 @@ export const products = [
             "id": "11",
             "title": "T-shirt",
             "description": "Cotton t-shirt with round neck.",
-            "image": "url_to_image_11",
+            "images": "url_to_image_11",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "20",
@@ -157,7 +157,7 @@ export const products = [
             "id": "12",
             "title": "Jeans",
             "description": "Slim fit jeans with stretchable fabric.",
-            "image": "url_to_image_12",
+            "images": "url_to_image_12",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "40",
@@ -171,7 +171,7 @@ export const products = [
             "id": "13",
             "title": "Jacket",
             "description": "Leather jacket with zip closure.",
-            "image": "url_to_image_13",
+            "images": "url_to_image_13",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "100",
@@ -185,7 +185,7 @@ export const products = [
             "id": "14",
             "title": "Formal Shirt",
             "description": "Cotton formal shirt with full sleeves.",
-            "image": "url_to_image_14",
+            "images": "url_to_image_14",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "30",
@@ -199,7 +199,7 @@ export const products = [
             "id": "15",
             "title": "Sweater",
             "description": "Woolen sweater with V-neck.",
-            "image": "url_to_image_15",
+            "images": "url_to_image_15",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "50",
@@ -213,7 +213,7 @@ export const products = [
             "id": "16",
             "title": "Shorts",
             "description": "Casual shorts with drawstring waist.",
-            "image": "url_to_image_16",
+            "images": "url_to_image_16",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "25",
@@ -227,7 +227,7 @@ export const products = [
             "id": "17",
             "title": "Blazer",
             "description": "Slim fit blazer for formal occasions.",
-            "image": "url_to_image_17",
+            "images": "url_to_image_17",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "120",
@@ -241,7 +241,7 @@ export const products = [
             "id": "18",
             "title": "Track Pants",
             "description": "Comfortable track pants for workouts.",
-            "image": "url_to_image_18",
+            "images": "url_to_image_18",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "35",
@@ -255,7 +255,7 @@ export const products = [
             "id": "19",
             "title": "Suit",
             "description": "Two-piece suit for formal wear.",
-            "image": "url_to_image_19",
+            "images": "url_to_image_19",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "200",
@@ -269,7 +269,7 @@ export const products = [
             "id": "20",
             "title": "Polo Shirt",
             "description": "Cotton polo shirt with short sleeves.",
-            "image": "url_to_image_20",
+            "images": "url_to_image_20",
             "category": "men-clothing",
             "pricing": {
                 "mrp": "25",
@@ -283,7 +283,7 @@ export const products = [
             "id": "21",
             "title": "Dress",
             "description": "Summer dress with floral print.",
-            "image": "url_to_image_21",
+            "images": "url_to_image_21",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "50",
@@ -297,7 +297,7 @@ export const products = [
             "id": "22",
             "title": "Jeans",
             "description": "High-waisted skinny jeans.",
-            "image": "url_to_image_22",
+            "images": "url_to_image_22",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "40",
@@ -311,7 +311,7 @@ export const products = [
             "id": "23",
             "title": "Jacket",
             "description": "Denim jacket with button closure.",
-            "image": "url_to_image_23",
+            "images": "url_to_image_23",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "60",
@@ -325,7 +325,7 @@ export const products = [
             "id": "24",
             "title": "Blouse",
             "description": "Silk blouse with ruffle sleeves.",
-            "image": "url_to_image_24",
+            "images": "url_to_image_24",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "35",
@@ -339,7 +339,7 @@ export const products = [
             "id": "25",
             "title": "Skirt",
             "description": "A-line skirt with pleats.",
-            "image": "url_to_image_25",
+            "images": "url_to_image_25",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "30",
@@ -353,7 +353,7 @@ export const products = [
             "id": "26",
             "title": "Sweater",
             "description": "Woolen sweater with crew neck.",
-            "image": "url_to_image_26",
+            "images": "url_to_image_26",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "45",
@@ -367,7 +367,7 @@ export const products = [
             "id": "27",
             "title": "Leggings",
             "description": "Comfortable leggings for daily wear.",
-            "image": "url_to_image_27",
+            "images": "url_to_image_27",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "25",
@@ -381,7 +381,7 @@ export const products = [
             "id": "28",
             "title": "T-shirt",
             "description": "Cotton t-shirt with V-neck.",
-            "image": "url_to_image_28",
+            "images": "url_to_image_28",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "20",
@@ -395,7 +395,7 @@ export const products = [
             "id": "29",
             "title": "Formal Pants",
             "description": "Slim fit formal pants.",
-            "image": "url_to_image_29",
+            "images": "url_to_image_29",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "40",
@@ -409,7 +409,7 @@ export const products = [
             "id": "30",
             "title": "Coat",
             "description": "Trench coat with belt.",
-            "image": "url_to_image_30",
+            "images": "url_to_image_30",
             "category": "women-clothing",
             "pricing": {
                 "mrp": "100",
@@ -423,7 +423,7 @@ export const products = [
             "id": "31",
             "title": "Sofa",
             "description": "Comfortable 3-seater sofa.",
-            "image": "url_to_image_31",
+            "images": "url_to_image_31",
             "category": "furniture",
             "pricing": {
                 "mrp": "500",
@@ -437,7 +437,7 @@ export const products = [
             "id": "32",
             "title": "Dining Table",
             "description": "Wooden dining table with 6 chairs.",
-            "image": "url_to_image_32",
+            "images": "url_to_image_32",
             "category": "furniture",
             "pricing": {
                 "mrp": "600",
@@ -451,7 +451,7 @@ export const products = [
             "id": "33",
             "title": "Bed",
             "description": "Queen size bed with storage.",
-            "image": "url_to_image_33",
+            "images": "url_to_image_33",
             "category": "furniture",
             "pricing": {
                 "mrp": "700",
@@ -465,7 +465,7 @@ export const products = [
             "id": "34",
             "title": "Office Chair",
             "description": "Ergonomic office chair with lumbar support.",
-            "image": "url_to_image_34",
+            "images": "url_to_image_34",
             "category": "furniture",
             "pricing": {
                 "mrp": "150",
@@ -479,7 +479,7 @@ export const products = [
             "id": "35",
             "title": "Bookshelf",
             "description": "5-tier bookshelf made of solid wood.",
-            "image": "url_to_image_35",
+            "images": "url_to_image_35",
             "category": "furniture",
             "pricing": {
                 "mrp": "200",
@@ -493,7 +493,7 @@ export const products = [
             "id": "36",
             "title": "Coffee Table",
             "description": "Modern coffee table with glass top.",
-            "image": "url_to_image_36",
+            "images": "url_to_image_36",
             "category": "furniture",
             "pricing": {
                 "mrp": "100",
@@ -507,7 +507,7 @@ export const products = [
             "id": "37",
             "title": "Wardrobe",
             "description": "Spacious wardrobe with sliding doors.",
-            "image": "url_to_image_37",
+            "images": "url_to_image_37",
             "category": "furniture",
             "pricing": {
                 "mrp": "600",
@@ -521,7 +521,7 @@ export const products = [
             "id": "38",
             "title": "TV Stand",
             "description": "TV stand with multiple storage compartments.",
-            "image": "url_to_image_38",
+            "images": "url_to_image_38",
             "category": "furniture",
             "pricing": {
                 "mrp": "250",
@@ -535,7 +535,7 @@ export const products = [
             "id": "39",
             "title": "Recliner",
             "description": "Recliner chair with adjustable backrest.",
-            "image": "url_to_image_39",
+            "images": "url_to_image_39",
             "category": "furniture",
             "pricing": {
                 "mrp": "400",
@@ -549,7 +549,7 @@ export const products = [
             "id": "40",
             "title": "Side Table",
             "description": "Wooden side table with drawer.",
-            "image": "url_to_image_40",
+            "images": "url_to_image_40",
             "category": "furniture",
             "pricing": {
                 "mrp": "120",
@@ -563,7 +563,7 @@ export const products = [
             "id": "41",
             "title": "Basketball",
             "description": "Official size and weight basketball.",
-            "image": "url_to_image_41",
+            "images": "url_to_image_41",
             "category": "sports",
             "pricing": {
                 "mrp": "30",
@@ -577,7 +577,7 @@ export const products = [
             "id": "42",
             "title": "Football",
             "description": "Professional grade football.",
-            "image": "url_to_image_42",
+            "images": "url_to_image_42",
             "category": "sports",
             "pricing": {
                 "mrp": "25",
@@ -591,7 +591,7 @@ export const products = [
             "id": "43",
             "title": "Tennis Racket",
             "description": "Lightweight tennis racket with cover.",
-            "image": "url_to_image_43",
+            "images": "url_to_image_43",
             "category": "sports",
             "pricing": {
                 "mrp": "50",
@@ -605,7 +605,7 @@ export const products = [
             "id": "44",
             "title": "Cricket Bat",
             "description": "Professional cricket bat made of high-quality willow.",
-            "image": "url_to_image_44",
+            "images": "url_to_image_44",
             "category": "sports",
             "pricing": {
                 "mrp": "100",
@@ -619,7 +619,7 @@ export const products = [
             "id": "45",
             "title": "Badminton Set",
             "description": "Badminton set with 2 rackets and 3 shuttlecocks.",
-            "image": "url_to_image_45",
+            "images": "url_to_image_45",
             "category": "sports",
             "pricing": {
                 "mrp": "40",
@@ -633,7 +633,7 @@ export const products = [
             "id": "46",
             "title": "Yoga Mat",
             "description": "Non-slip yoga mat for comfortable workouts.",
-            "image": "url_to_image_46",
+            "images": "url_to_image_46",
             "category": "sports",
             "pricing": {
                 "mrp": "20",
@@ -647,7 +647,7 @@ export const products = [
             "id": "47",
             "title": "Dumbbell Set",
             "description": "Adjustable dumbbell set for weight training.",
-            "image": "url_to_image_47",
+            "images": "url_to_image_47",
             "category": "sports",
             "pricing": {
                 "mrp": "60",
@@ -661,7 +661,7 @@ export const products = [
             "id": "48",
             "title": "Treadmill",
             "description": "Electric treadmill with multiple speed settings.",
-            "image": "url_to_image_48",
+            "images": "url_to_image_48",
             "category": "sports",
             "pricing": {
                 "mrp": "400",
@@ -675,7 +675,7 @@ export const products = [
             "id": "49",
             "title": "Hiking Backpack",
             "description": "Durable hiking backpack with multiple compartments.",
-            "image": "url_to_image_49",
+            "images": "url_to_image_49",
             "category": "sports",
             "pricing": {
                 "mrp": "70",
@@ -689,7 +689,7 @@ export const products = [
             "id": "50",
             "title": "Swimming Goggles",
             "description": "Anti-fog swimming goggles with UV protection.",
-            "image": "url_to_image_50",
+            "images": "url_to_image_50",
             "category": "sports",
             "pricing": {
                 "mrp": "15",
@@ -703,7 +703,7 @@ export const products = [
             "id": "51",
             "title": "Necklace",
             "description": "Gold plated necklace with pendant.",
-            "image": "url_to_image_51",
+            "images": "url_to_image_51",
             "category": "jewellery",
             "pricing": {
                 "mrp": "100",
@@ -717,7 +717,7 @@ export const products = [
             "id": "52",
             "title": "Earrings",
             "description": "Silver stud earrings with gemstones.",
-            "image": "url_to_image_52",
+            "images": "url_to_image_52",
             "category": "jewellery",
             "pricing": {
                 "mrp": "50",
@@ -731,7 +731,7 @@ export const products = [
             "id": "53",
             "title": "Bracelet",
             "description": "Diamond bracelet with adjustable clasp.",
-            "image": "url_to_image_53",
+            "images": "url_to_image_53",
             "category": "jewellery",
             "pricing": {
                 "mrp": "200",
@@ -745,7 +745,7 @@ export const products = [
             "id": "54",
             "title": "Ring",
             "description": "Gold ring with intricate design.",
-            "image": "url_to_image_54",
+            "images": "url_to_image_54",
             "category": "jewellery",
             "pricing": {
                 "mrp": "150",
@@ -759,7 +759,7 @@ export const products = [
             "id": "55",
             "title": "Anklet",
             "description": "Silver anklet with charms.",
-            "image": "url_to_image_55",
+            "images": "url_to_image_55",
             "category": "jewellery",
             "pricing": {
                 "mrp": "30",
@@ -773,7 +773,7 @@ export const products = [
             "id": "56",
             "title": "Brooch",
             "description": "Vintage brooch with pearls.",
-            "image": "url_to_image_56",
+            "images": "url_to_image_56",
             "category": "jewellery",
             "pricing": {
                 "mrp": "40",
@@ -787,7 +787,7 @@ export const products = [
             "id": "57",
             "title": "Hairpin",
             "description": "Decorative hairpin with rhinestones.",
-            "image": "url_to_image_57",
+            "images": "url_to_image_57",
             "category": "jewellery",
             "pricing": {
                 "mrp": "20",
@@ -801,7 +801,7 @@ export const products = [
             "id": "58",
             "title": "Pendant",
             "description": "Heart-shaped pendant with chain.",
-            "image": "url_to_image_58",
+            "images": "url_to_image_58",
             "category": "jewellery",
             "pricing": {
                 "mrp": "60",
@@ -815,7 +815,7 @@ export const products = [
             "id": "59",
             "title": "Cufflinks",
             "description": "Gold cufflinks with engraved initials.",
-            "image": "url_to_image_59",
+            "images": "url_to_image_59",
             "category": "jewellery",
             "pricing": {
                 "mrp": "80",
@@ -829,7 +829,7 @@ export const products = [
             "id": "60",
             "title": "Choker",
             "description": "Velvet choker with pendant.",
-            "image": "url_to_image_60",
+            "images": "url_to_image_60",
             "category": "jewellery",
             "pricing": {
                 "mrp": "25",
@@ -845,37 +845,37 @@ export const categories = [
     {
         "id":"1",
         "name":"electronics",
-        "image":""
+        "image":"https://ecommercebackend-wveh.onrender.com/images/c1/1.webp"
 
     },
     {
         "id":"2",
         "name":"men-clothing",
-        "image":""
+        "image":"https://ecommercebackend-wveh.onrender.com/images/c2/1.jpeg"
 
     },
     {
         "id":"3",
         "name":"women-clothing",
-        "image":""
+        "image":"https://ecommercebackend-wveh.onrender.com/images/c3/1.jpeg"
 
     },
     {
         "id":"4",
         "name":"furniture",
-        "image":""
+        "image":"https://ecommercebackend-wveh.onrender.com/images/c4/1.png"
 
     },
     {
         "id":"5",
         "name":"sports",
-        "image":""
+        "image":"https://ecommercebackend-wveh.onrender.com/images/c5/1.jpg"
 
     },
     {
         "id":"6",
         "name":"jewellery",
-        "image":""
+        "image":"https://ecommercebackend-wveh.onrender.com/images/c6/1.webp"
 
     }
     
