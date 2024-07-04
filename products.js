@@ -3,7 +3,7 @@ export const products = [
             "id": "1",
             "title": "Smartphone",
             "description": "Latest model with high resolution camera and fast processor.",
-            "image": "url_to_image_1",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/1/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/1/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "1000",
@@ -17,7 +17,7 @@ export const products = [
             "id": "2",
             "title": "Laptop",
             "description": "Powerful laptop with 16GB RAM and 1TB SSD.",
-            "image": "url_to_image_2",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/2/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/2/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "1500",
@@ -31,7 +31,7 @@ export const products = [
             "id": "3",
             "title": "Headphones",
             "description": "Noise-cancelling wireless headphones.",
-            "image": "url_to_image_3",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/3/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/3/3.jpg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "200",
@@ -45,7 +45,7 @@ export const products = [
             "id": "4",
             "title": "Smartwatch",
             "description": "Smartwatch with fitness tracking features.",
-            "image": "url_to_image_4",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/4/1.png", "https://ecommercebackend-wveh.onrender.com/images/4/2.png", "https://ecommercebackend-wveh.onrender.com/images/4/3.png"],
             "category": "electronics",
             "pricing": {
                 "mrp": "300",
@@ -59,7 +59,7 @@ export const products = [
             "id": "5",
             "title": "Bluetooth Speaker",
             "description": "Portable Bluetooth speaker with high-quality sound.",
-            "image": "url_to_image_5",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/5/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/5/3.jpg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "100",
@@ -73,7 +73,7 @@ export const products = [
             "id": "6",
             "title": "Tablet",
             "description": "Tablet with 10-inch display and long battery life.",
-            "image": "url_to_image_6",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/6/1.png", "https://ecommercebackend-wveh.onrender.com/images/6/2.png", "https://ecommercebackend-wveh.onrender.com/images/6/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "500",
@@ -87,7 +87,7 @@ export const products = [
             "id": "7",
             "title": "Camera",
             "description": "Digital camera with 20MP lens and 4K video recording.",
-            "image": "url_to_image_7",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/7/1.png", "https://ecommercebackend-wveh.onrender.com/images/7/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/7/3.png"],
             "category": "electronics",
             "pricing": {
                 "mrp": "700",
@@ -101,7 +101,7 @@ export const products = [
             "id": "8",
             "title": "Gaming Console",
             "description": "Latest gaming console with 1TB storage.",
-            "image": "url_to_image_8",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/8/1.webp", "https://ecommercebackend-wveh.onrender.com/images/8/2.webp", "https://ecommercebackend-wveh.onrender.com/images/8/3.webp"],
             "category": "electronics",
             "pricing": {
                 "mrp": "400",
@@ -115,7 +115,7 @@ export const products = [
             "id": "9",
             "title": "E-reader",
             "description": "E-reader with adjustable lighting and long battery life.",
-            "image": "url_to_image_9",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/9/1.webp", "https://ecommercebackend-wveh.onrender.com/images/9/2.webp", "https://ecommercebackend-wveh.onrender.com/images/9/3.webp"],
             "category": "electronics",
             "pricing": {
                 "mrp": "150",
@@ -129,7 +129,7 @@ export const products = [
             "id": "10",
             "title": "Drone",
             "description": "Drone with HD camera and GPS.",
-            "image": "url_to_image_10",
+            "image": ["https://ecommercebackend-wveh.onrender.com/images/10/1.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/2.jpeg", "https://ecommercebackend-wveh.onrender.com/images/10/3.jpeg"],
             "category": "electronics",
             "pricing": {
                 "mrp": "600",
