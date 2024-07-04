@@ -48,6 +48,15 @@ app.get("/bestseller", async (req, res) => {
     res.json(response)
 })
 
+app.get("/search/:query", async (req, res) => {
+    const {query} = req.params
+    const response = products.filter((product) => {
+        product.category.includes(query) || 
+        product.title.includes(query) ||
+        product.description.includes(query)
+    })
+})
+
 app.listen(port, async (req, res) => {
     console.log("Port active ", port)
 })
