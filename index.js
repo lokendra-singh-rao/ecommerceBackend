@@ -55,6 +55,7 @@ app.get("/search/:query", async (req, res) => {
         product.title.includes(query) ||
         product.description.includes(query)
     })
+    res.json(response)
 })
 
 app.listen(port, async (req, res) => {
