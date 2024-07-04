@@ -143,7 +143,7 @@ export const products = [
             "id": "11",
             "title": "T-shirt",
             "description": "Cotton t-shirt with round neck.",
-            "images": "url_to_image_11",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/11/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/11/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/11/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "20",
@@ -157,7 +157,7 @@ export const products = [
             "id": "12",
             "title": "Jeans",
             "description": "Slim fit jeans with stretchable fabric.",
-            "images": "url_to_image_12",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/12/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/12/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/12/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "40",
@@ -171,7 +171,7 @@ export const products = [
             "id": "13",
             "title": "Jacket",
             "description": "Leather jacket with zip closure.",
-            "images": "url_to_image_13",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/13/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/13/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/13/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "100",
@@ -185,7 +185,7 @@ export const products = [
             "id": "14",
             "title": "Formal Shirt",
             "description": "Cotton formal shirt with full sleeves.",
-            "images": "url_to_image_14",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/14/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/14/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/14/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "30",
@@ -199,7 +199,7 @@ export const products = [
             "id": "15",
             "title": "Sweater",
             "description": "Woolen sweater with V-neck.",
-            "images": "url_to_image_15",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/15/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/15/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/15/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "50",
@@ -213,7 +213,7 @@ export const products = [
             "id": "16",
             "title": "Shorts",
             "description": "Casual shorts with drawstring waist.",
-            "images": "url_to_image_16",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/16/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/16/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/16/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "100",
@@ -227,7 +227,7 @@ export const products = [
             "id": "17",
             "title": "Blazer",
             "description": "Slim fit blazer for formal occasions.",
-            "images": "url_to_image_17",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/17/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/17/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/17/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "120",
@@ -241,7 +241,7 @@ export const products = [
             "id": "18",
             "title": "Track Pants",
             "description": "Comfortable track pants for workouts.",
-            "images": "url_to_image_18",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/18/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/18/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/18/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "35",
@@ -255,7 +255,7 @@ export const products = [
             "id": "19",
             "title": "Suit",
             "description": "Two-piece suit for formal wear.",
-            "images": "url_to_image_19",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/19/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/19/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/19/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "200",
@@ -269,7 +269,7 @@ export const products = [
             "id": "20",
             "title": "Polo Shirt",
             "description": "Cotton polo shirt with short sleeves.",
-            "images": "url_to_image_20",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/20/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/20/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/20/3.jpg"],
             "category": "men-clothing",
             "pricing": {
                 "mrp": "25",
