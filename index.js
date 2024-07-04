@@ -1,25 +1,50 @@
 import express from "express"
 import cors from "cors"
 import { products } from "./products.js"
+import { categories } from "./products.js"
+
 const port = 8080
 
 const app = express()
+
 app.use(cors())
+
 app.use("/images", express.static("images"))
+
 app.get("/", (req,res) => {
     res.send("Welcome to ecommerce api by Lokenrao")
 })
 
-app.get("/products", (req, res) => {
+app.get("/products", async (req, res) => {
     res.json(products)
 })
 
-app.get("/products/:id", (req,res) => {
+app.get("/products/:id", async (req,res) => {
     const {id} = req.params
-    const product = products.find((product) => product.id === id)
-    res.json(product)
+    const response = products.find((product) => product.id === id)
+    res.json(response)
 })
 
-app.listen(port, (req, res) => {
+app.get("/categories", async (req,res) => {
+    res.json(categories)
+})
+
+app.get("/categories/:category", async (req, res) => {
+    const {category} = req.params
+    const response = products.filter((product) => product.category === category)
+    res.json(response)
+})
+
+app.get("/deals", async (req, res) => {
+    const response = products.filter((product) => product.id % 6 === 0)
+    res.json(response)
+})
+
+app.get("/bestseller", async (req, res) => {
+    const response = products.filter((product) => product.id % 5 === 0)
+    res.json(response)
+})
+
+app.listen(port, async (req, res) => {
     console.log("Port active ", port)
 })
