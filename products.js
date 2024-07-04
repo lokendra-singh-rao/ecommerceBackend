@@ -7,8 +7,8 @@ export const products = [
             "category": "electronics",
             "pricing": {
                 "mrp": "1000",
-                "cost": "800",
-                "discount": "20%"
+                "cost": "500",
+                "discount": "50%"
             },
             "rating": "4.5",
             "noOfReviews": "1500"
@@ -49,8 +49,8 @@ export const products = [
             "category": "electronics",
             "pricing": {
                 "mrp": "300",
-                "cost": "240",
-                "discount": "20%"
+                "cost": "210",
+                "discount": "30%"
             },
             "rating": "4.3",
             "noOfReviews": "600"
@@ -63,8 +63,8 @@ export const products = [
             "category": "electronics",
             "pricing": {
                 "mrp": "100",
-                "cost": "80",
-                "discount": "20%"
+                "cost": "85",
+                "discount": "15%"
             },
             "rating": "4.5",
             "noOfReviews": "700"
@@ -77,8 +77,8 @@ export const products = [
             "category": "electronics",
             "pricing": {
                 "mrp": "500",
-                "cost": "400",
-                "discount": "20%"
+                "cost": "460",
+                "discount": "15%"
             },
             "rating": "4.2",
             "noOfReviews": "500"
@@ -91,8 +91,8 @@ export const products = [
             "category": "electronics",
             "pricing": {
                 "mrp": "700",
-                "cost": "560",
-                "discount": "20%"
+                "cost": "299",
+                "discount": "57%"
             },
             "rating": "4.6",
             "noOfReviews": "900"
@@ -105,8 +105,8 @@ export const products = [
             "category": "electronics",
             "pricing": {
                 "mrp": "400",
-                "cost": "320",
-                "discount": "20%"
+                "cost": "280",
+                "discount": "30%"
             },
             "rating": "4.7",
             "noOfReviews": "2000"
@@ -118,9 +118,9 @@ export const products = [
             "images": ["https://ecommercebackend-wveh.onrender.com/images/9/1.webp", "https://ecommercebackend-wveh.onrender.com/images/9/2.webp", "https://ecommercebackend-wveh.onrender.com/images/9/3.webp"],
             "category": "electronics",
             "pricing": {
-                "mrp": "150",
-                "cost": "120",
-                "discount": "20%"
+                "mrp": "100",
+                "cost": "95",
+                "discount": "5%"
             },
             "rating": "4.5",
             "noOfReviews": "600"
@@ -175,8 +175,8 @@ export const products = [
             "category": "men-clothing",
             "pricing": {
                 "mrp": "100",
-                "cost": "75",
-                "discount": "25%"
+                "cost": "35",
+                "discount": "65%"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -203,8 +203,8 @@ export const products = [
             "category": "men-clothing",
             "pricing": {
                 "mrp": "50",
-                "cost": "40",
-                "discount": "20%"
+                "cost": "48",
+                "discount": "4%"
             },
             "rating": "4.2",
             "noOfReviews": "80"
@@ -216,9 +216,9 @@ export const products = [
             "images": "url_to_image_16",
             "category": "men-clothing",
             "pricing": {
-                "mrp": "25",
+                "mrp": "100",
                 "cost": "20",
-                "discount": "20%"
+                "discount": "80%"
             },
             "rating": "4.4",
             "noOfReviews": "60"
@@ -259,8 +259,8 @@ export const products = [
             "category": "men-clothing",
             "pricing": {
                 "mrp": "200",
-                "cost": "160",
-                "discount": "20%"
+                "cost": "100",
+                "discount": "50%"
             },
             "rating": "4.7",
             "noOfReviews": "50"
@@ -273,8 +273,8 @@ export const products = [
             "category": "men-clothing",
             "pricing": {
                 "mrp": "25",
-                "cost": "20",
-                "discount": "20%"
+                "cost": "10",
+                "discount": "60%"
             },
             "rating": "4.4",
             "noOfReviews": "75"
@@ -329,8 +329,8 @@ export const products = [
             "category": "women-clothing",
             "pricing": {
                 "mrp": "35",
-                "cost": "28",
-                "discount": "20%"
+                "cost": "20",
+                "discount": "43%"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -343,8 +343,8 @@ export const products = [
             "category": "women-clothing",
             "pricing": {
                 "mrp": "30",
-                "cost": "24",
-                "discount": "20%"
+                "cost": "18",
+                "discount": "40%"
             },
             "rating": "4.4",
             "noOfReviews": "90"
@@ -371,8 +371,8 @@ export const products = [
             "category": "women-clothing",
             "pricing": {
                 "mrp": "25",
-                "cost": "20",
-                "discount": "20%"
+                "cost": "24",
+                "discount": "4%"
             },
             "rating": "4.5",
             "noOfReviews": "110"
@@ -399,8 +399,8 @@ export const products = [
             "category": "women-clothing",
             "pricing": {
                 "mrp": "40",
-                "cost": "32",
-                "discount": "20%"
+                "cost": "30",
+                "discount": "25%"
             },
             "rating": "4.5",
             "noOfReviews": "50"
@@ -413,8 +413,8 @@ export const products = [
             "category": "women-clothing",
             "pricing": {
                 "mrp": "100",
-                "cost": "80",
-                "discount": "20%"
+                "cost": "70",
+                "discount": "30%"
             },
             "rating": "4.7",
             "noOfReviews": "40"
@@ -427,8 +427,8 @@ export const products = [
             "category": "furniture",
             "pricing": {
                 "mrp": "500",
-                "cost": "400",
-                "discount": "20%"
+                "cost": "425",
+                "discount": "15%"
             },
             "rating": "4.5",
             "noOfReviews": "200"
@@ -441,8 +441,8 @@ export const products = [
             "category": "furniture",
             "pricing": {
                 "mrp": "600",
-                "cost": "480",
-                "discount": "20%"
+                "cost": "450",
+                "discount": "25%"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -483,8 +483,8 @@ export const products = [
             "category": "furniture",
             "pricing": {
                 "mrp": "200",
-                "cost": "160",
-                "discount": "20%"
+                "cost": "100",
+                "discount": "50%"
             },
             "rating": "4.5",
             "noOfReviews": "90"
@@ -497,8 +497,8 @@ export const products = [
             "category": "furniture",
             "pricing": {
                 "mrp": "100",
-                "cost": "80",
-                "discount": "20%"
+                "cost": "50",
+                "discount": "50%"
             },
             "rating": "4.4",
             "noOfReviews": "80"
@@ -511,8 +511,8 @@ export const products = [
             "category": "furniture",
             "pricing": {
                 "mrp": "600",
-                "cost": "480",
-                "discount": "20%"
+                "cost": "450",
+                "discount": "25%"
             },
             "rating": "4.6",
             "noOfReviews": "130"
@@ -525,8 +525,8 @@ export const products = [
             "category": "furniture",
             "pricing": {
                 "mrp": "250",
-                "cost": "200",
-                "discount": "20%"
+                "cost": "75",
+                "discount": "70%"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -567,8 +567,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "30",
-                "cost": "24",
-                "discount": "20%"
+                "cost": "12",
+                "discount": "60%"
             },
             "rating": "4.5",
             "noOfReviews": "100"
@@ -581,8 +581,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "25",
-                "cost": "20",
-                "discount": "20%"
+                "cost": "10",
+                "discount": "60%"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -609,8 +609,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "100",
-                "cost": "80",
-                "discount": "20%"
+                "cost": "75",
+                "discount": "25%"
             },
             "rating": "4.5",
             "noOfReviews": "120"
@@ -623,8 +623,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "40",
-                "cost": "32",
-                "discount": "20%"
+                "cost": "30",
+                "discount": "25%"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -651,8 +651,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "60",
-                "cost": "48",
-                "discount": "20%"
+                "cost": "39",
+                "discount": "35%"
             },
             "rating": "4.4",
             "noOfReviews": "110"
@@ -665,8 +665,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "400",
-                "cost": "320",
-                "discount": "20%"
+                "cost": "300",
+                "discount": "25%"
             },
             "rating": "4.7",
             "noOfReviews": "200"
@@ -679,8 +679,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "70",
-                "cost": "56",
-                "discount": "20%"
+                "cost": "52.5",
+                "discount": "25%"
             },
             "rating": "4.5",
             "noOfReviews": "130"
@@ -693,8 +693,8 @@ export const products = [
             "category": "sports",
             "pricing": {
                 "mrp": "15",
-                "cost": "12",
-                "discount": "20%"
+                "cost": "7.5",
+                "discount": "50%"
             },
             "rating": "4.4",
             "noOfReviews": "50"
@@ -707,8 +707,8 @@ export const products = [
             "category": "jewellery",
             "pricing": {
                 "mrp": "100",
-                "cost": "80",
-                "discount": "20%"
+                "cost": "10",
+                "discount": "90%"
             },
             "rating": "4.5",
             "noOfReviews": "100"
@@ -721,8 +721,8 @@ export const products = [
             "category": "jewellery",
             "pricing": {
                 "mrp": "50",
-                "cost": "40",
-                "discount": "20%"
+                "cost": "10",
+                "discount": "80%"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -734,9 +734,9 @@ export const products = [
             "images": "url_to_image_53",
             "category": "jewellery",
             "pricing": {
-                "mrp": "200",
-                "cost": "160",
-                "discount": "20%"
+                "mrp": "900",
+                "cost": "315",
+                "discount": "65%"
             },
             "rating": "4.4",
             "noOfReviews": "80"
@@ -762,9 +762,9 @@ export const products = [
             "images": "url_to_image_55",
             "category": "jewellery",
             "pricing": {
-                "mrp": "30",
-                "cost": "24",
-                "discount": "20%"
+                "mrp": "300",
+                "cost": "200",
+                "discount": "33%"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -791,8 +791,8 @@ export const products = [
             "category": "jewellery",
             "pricing": {
                 "mrp": "20",
-                "cost": "16",
-                "discount": "20%"
+                "cost": "15",
+                "discount": "25%"
             },
             "rating": "4.2",
             "noOfReviews": "50"
@@ -819,8 +819,8 @@ export const products = [
             "category": "jewellery",
             "pricing": {
                 "mrp": "80",
-                "cost": "64",
-                "discount": "20%"
+                "cost": "50",
+                "discount": "37.5%"
             },
             "rating": "4.4",
             "noOfReviews": "40"
