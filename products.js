@@ -339,7 +339,7 @@ export const products = [
             "id": "25",
             "title": "Skirt",
             "description": "A-line skirt with pleats.",
-            "images": "url_to_image_25",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/25/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/25/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/25/3.jpg"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "30",
@@ -353,7 +353,7 @@ export const products = [
             "id": "26",
             "title": "Sweater",
             "description": "Woolen sweater with crew neck.",
-            "images": "url_to_image_26",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/26/1.webp", "https://ecommercebackend-wveh.onrender.com/images/26/2.webp", "https://ecommercebackend-wveh.onrender.com/images/26/3.webp"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "45",
@@ -367,7 +367,7 @@ export const products = [
             "id": "27",
             "title": "Leggings",
             "description": "Comfortable leggings for daily wear.",
-            "images": "url_to_image_27",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/27/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/27/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/27/3.jpg"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "25",
@@ -381,7 +381,7 @@ export const products = [
             "id": "28",
             "title": "T-shirt",
             "description": "Cotton t-shirt with V-neck.",
-            "images": "url_to_image_28",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/28/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/28/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/28/3.jpg"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "20",
@@ -395,7 +395,7 @@ export const products = [
             "id": "29",
             "title": "Formal Pants",
             "description": "Slim fit formal pants.",
-            "images": "url_to_image_29",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/29/1.webp", "https://ecommercebackend-wveh.onrender.com/images/29/2.webp", "https://ecommercebackend-wveh.onrender.com/images/29/3.webp"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "40",
@@ -409,7 +409,7 @@ export const products = [
             "id": "30",
             "title": "Coat",
             "description": "Trench coat with belt.",
-            "images": "url_to_image_30",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/30/1.webp", "https://ecommercebackend-wveh.onrender.com/images/30/2.webp", "https://ecommercebackend-wveh.onrender.com/images/30/3.webp"],
             "category": "women-clothing",
             "pricing": {
                 "mrp": "100",
