@@ -51,9 +51,9 @@ app.get("/bestseller", async (req, res) => {
 app.get("/search/:query", async (req, res) => {
     const {query} = req.params
     const response = products.filter((product) => 
-        product.category.includes(query) || 
-        product.title.includes(query) ||
-        product.description.includes(query)
+        product.category.toLowerCase().includes(query.toLowerCase()) || 
+        product.title.toLowerCase().includes(query.toLowerCase()) ||
+        product.description.toLowerCase().includes(query.toLowerCase())
     )
     res.json(response)
 })
