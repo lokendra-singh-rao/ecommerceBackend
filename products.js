@@ -643,62 +643,62 @@ export const products = [
             "rating": "4.6",
             "noOfReviews": "90"
         },
-        {
-            "id": "47",
-            "title": "Dumbbell Set",
-            "description": "Adjustable dumbbell set for weight training.",
-            "images": ["https://ecommercebackend-wveh.onrender.com/images/47/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/3.jpg"],
-            "category": "sports",
-            "pricing": {
-                "mrp": "60",
-                "cost": "39",
-                "discount": "35%"
-            },
-            "rating": "4.4",
-            "noOfReviews": "110"
-        },
-        {
-            "id": "48",
-            "title": "Treadmill",
-            "description": "Electric treadmill with multiple speed settings.",
-            "images": ["https://ecommercebackend-wveh.onrender.com/images/48/1.webp", "https://ecommercebackend-wveh.onrender.com/images/48/2.webp", "https://ecommercebackend-wveh.onrender.com/images/48/3.webp"],
-            "category": "sports",
-            "pricing": {
-                "mrp": "400",
-                "cost": "300",
-                "discount": "25%"
-            },
-            "rating": "4.7",
-            "noOfReviews": "200"
-        },
-        {
-            "id": "49",
-            "title": "Hiking Backpack",
-            "description": "Durable hiking backpack with multiple compartments.",
-            "images": ["https://ecommercebackend-wveh.onrender.com/images/49/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/3.jpg"],
-            "category": "sports",
-            "pricing": {
-                "mrp": "70",
-                "cost": "52.5",
-                "discount": "25%"
-            },
-            "rating": "4.5",
-            "noOfReviews": "130"
-        },
-        {
-            "id": "50",
-            "title": "Swimming Goggles",
-            "description": "Anti-fog swimming goggles with UV protection.",
-            "images": ["https://ecommercebackend-wveh.onrender.com/images/50/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/3.jpg"],
-            "category": "sports",
-            "pricing": {
-                "mrp": "15",
-                "cost": "7.5",
-                "discount": "50%"
-            },
-            "rating": "4.4",
-            "noOfReviews": "50"
-        },
+        // {
+        //     "id": "47",
+        //     "title": "Dumbbell Set",
+        //     "description": "Adjustable dumbbell set for weight training.",
+        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/47/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/3.jpg"],
+        //     "category": "sports",
+        //     "pricing": {
+        //         "mrp": "60",
+        //         "cost": "39",
+        //         "discount": "35%"
+        //     },
+        //     "rating": "4.4",
+        //     "noOfReviews": "110"
+        // },
+        // {
+        //     "id": "48",
+        //     "title": "Treadmill",
+        //     "description": "Electric treadmill with multiple speed settings.",
+        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/48/1.webp", "https://ecommercebackend-wveh.onrender.com/images/48/2.webp", "https://ecommercebackend-wveh.onrender.com/images/48/3.webp"],
+        //     "category": "sports",
+        //     "pricing": {
+        //         "mrp": "400",
+        //         "cost": "300",
+        //         "discount": "25%"
+        //     },
+        //     "rating": "4.7",
+        //     "noOfReviews": "200"
+        // },
+        // {
+        //     "id": "49",
+        //     "title": "Hiking Backpack",
+        //     "description": "Durable hiking backpack with multiple compartments.",
+        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/49/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/3.jpg"],
+        //     "category": "sports",
+        //     "pricing": {
+        //         "mrp": "70",
+        //         "cost": "52.5",
+        //         "discount": "25%"
+        //     },
+        //     "rating": "4.5",
+        //     "noOfReviews": "130"
+        // },
+        // {
+        //     "id": "50",
+        //     "title": "Swimming Goggles",
+        //     "description": "Anti-fog swimming goggles with UV protection.",
+        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/50/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/3.jpg"],
+        //     "category": "sports",
+        //     "pricing": {
+        //         "mrp": "15",
+        //         "cost": "7.5",
+        //         "discount": "50%"
+        //     },
+        //     "rating": "4.4",
+        //     "noOfReviews": "50"
+        // },
         {
             "id": "51",
             "title": "Necklace",
@@ -773,7 +773,7 @@ export const products = [
             "id": "56",
             "title": "Brooch",
             "description": "Vintage brooch with pearls.",
-            "images": "url_to_image_56",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/56/1.webp", "https://ecommercebackend-wveh.onrender.com/images/56/2.webp", "https://ecommercebackend-wveh.onrender.com/images/56/3.webp"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "40",
@@ -787,7 +787,7 @@ export const products = [
             "id": "57",
             "title": "Hairpin",
             "description": "Decorative hairpin with rhinestones.",
-            "images": "url_to_image_57",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/57/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/57/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/57/3.jpg"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "20",
@@ -801,7 +801,7 @@ export const products = [
             "id": "58",
             "title": "Pendant",
             "description": "Heart-shaped pendant with chain.",
-            "images": "url_to_image_58",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/58/1.webp", "https://ecommercebackend-wveh.onrender.com/images/58/2.webp", "https://ecommercebackend-wveh.onrender.com/images/58/3.webp"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "60",
@@ -815,7 +815,7 @@ export const products = [
             "id": "59",
             "title": "Cufflinks",
             "description": "Gold cufflinks with engraved initials.",
-            "images": "url_to_image_59",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/59/1.avif", "https://ecommercebackend-wveh.onrender.com/images/59/2.avif", "https://ecommercebackend-wveh.onrender.com/images/59/3.avif"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "80",
@@ -829,7 +829,7 @@ export const products = [
             "id": "60",
             "title": "Choker",
             "description": "Velvet choker with pendant.",
-            "images": "url_to_image_60",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/60/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/60/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/60/3.jpg"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "25",
