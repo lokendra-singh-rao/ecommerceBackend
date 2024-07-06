@@ -8,7 +8,7 @@ export const products = [
             "pricing": {
                 "mrp": "1000",
                 "cost": "500",
-                "discount": "50%"
+                "discount": "50"
             },
             "rating": "4.5",
             "noOfReviews": "1500"
@@ -22,7 +22,7 @@ export const products = [
             "pricing": {
                 "mrp": "1500",
                 "cost": "1200",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.6",
             "noOfReviews": "1000"
@@ -36,7 +36,7 @@ export const products = [
             "pricing": {
                 "mrp": "200",
                 "cost": "150",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.4",
             "noOfReviews": "800"
@@ -50,7 +50,7 @@ export const products = [
             "pricing": {
                 "mrp": "300",
                 "cost": "210",
-                "discount": "30%"
+                "discount": "30"
             },
             "rating": "4.3",
             "noOfReviews": "600"
@@ -64,7 +64,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "85",
-                "discount": "15%"
+                "discount": "15"
             },
             "rating": "4.5",
             "noOfReviews": "700"
@@ -78,7 +78,7 @@ export const products = [
             "pricing": {
                 "mrp": "500",
                 "cost": "460",
-                "discount": "15%"
+                "discount": "15"
             },
             "rating": "4.2",
             "noOfReviews": "500"
@@ -92,7 +92,7 @@ export const products = [
             "pricing": {
                 "mrp": "700",
                 "cost": "299",
-                "discount": "57%"
+                "discount": "57"
             },
             "rating": "4.6",
             "noOfReviews": "900"
@@ -106,7 +106,7 @@ export const products = [
             "pricing": {
                 "mrp": "400",
                 "cost": "280",
-                "discount": "30%"
+                "discount": "30"
             },
             "rating": "4.7",
             "noOfReviews": "2000"
@@ -120,7 +120,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "95",
-                "discount": "5%"
+                "discount": "5"
             },
             "rating": "4.5",
             "noOfReviews": "600"
@@ -134,7 +134,7 @@ export const products = [
             "pricing": {
                 "mrp": "600",
                 "cost": "480",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.4",
             "noOfReviews": "400"
@@ -148,7 +148,7 @@ export const products = [
             "pricing": {
                 "mrp": "20",
                 "cost": "15",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.5",
             "noOfReviews": "100"
@@ -162,7 +162,7 @@ export const products = [
             "pricing": {
                 "mrp": "40",
                 "cost": "30",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.4",
             "noOfReviews": "200"
@@ -176,7 +176,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "35",
-                "discount": "65%"
+                "discount": "65"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -190,7 +190,7 @@ export const products = [
             "pricing": {
                 "mrp": "30",
                 "cost": "25",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.3",
             "noOfReviews": "120"
@@ -204,7 +204,7 @@ export const products = [
             "pricing": {
                 "mrp": "50",
                 "cost": "48",
-                "discount": "4%"
+                "discount": "4"
             },
             "rating": "4.2",
             "noOfReviews": "80"
@@ -218,7 +218,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "20",
-                "discount": "80%"
+                "discount": "80"
             },
             "rating": "4.4",
             "noOfReviews": "60"
@@ -232,7 +232,7 @@ export const products = [
             "pricing": {
                 "mrp": "120",
                 "cost": "100",
-                "discount": "16.67%"
+                "discount": "16.67"
             },
             "rating": "4.5",
             "noOfReviews": "110"
@@ -246,7 +246,7 @@ export const products = [
             "pricing": {
                 "mrp": "35",
                 "cost": "28",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.3",
             "noOfReviews": "90"
@@ -260,7 +260,7 @@ export const products = [
             "pricing": {
                 "mrp": "200",
                 "cost": "100",
-                "discount": "50%"
+                "discount": "50"
             },
             "rating": "4.7",
             "noOfReviews": "50"
@@ -274,7 +274,7 @@ export const products = [
             "pricing": {
                 "mrp": "25",
                 "cost": "10",
-                "discount": "60%"
+                "discount": "60"
             },
             "rating": "4.4",
             "noOfReviews": "75"
@@ -288,7 +288,7 @@ export const products = [
             "pricing": {
                 "mrp": "50",
                 "cost": "40",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.5",
             "noOfReviews": "100"
@@ -302,7 +302,7 @@ export const products = [
             "pricing": {
                 "mrp": "40",
                 "cost": "30",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -316,7 +316,7 @@ export const products = [
             "pricing": {
                 "mrp": "60",
                 "cost": "50",
-                "discount": "16.67%"
+                "discount": "16.67"
             },
             "rating": "4.4",
             "noOfReviews": "80"
@@ -330,7 +330,7 @@ export const products = [
             "pricing": {
                 "mrp": "35",
                 "cost": "20",
-                "discount": "43%"
+                "discount": "43"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -344,7 +344,7 @@ export const products = [
             "pricing": {
                 "mrp": "30",
                 "cost": "18",
-                "discount": "40%"
+                "discount": "40"
             },
             "rating": "4.4",
             "noOfReviews": "90"
@@ -358,7 +358,7 @@ export const products = [
             "pricing": {
                 "mrp": "45",
                 "cost": "36",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.2",
             "noOfReviews": "60"
@@ -372,7 +372,7 @@ export const products = [
             "pricing": {
                 "mrp": "25",
                 "cost": "24",
-                "discount": "4%"
+                "discount": "4"
             },
             "rating": "4.5",
             "noOfReviews": "110"
@@ -386,7 +386,7 @@ export const products = [
             "pricing": {
                 "mrp": "20",
                 "cost": "16",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.4",
             "noOfReviews": "100"
@@ -400,7 +400,7 @@ export const products = [
             "pricing": {
                 "mrp": "40",
                 "cost": "30",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.5",
             "noOfReviews": "50"
@@ -414,7 +414,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "70",
-                "discount": "30%"
+                "discount": "30"
             },
             "rating": "4.7",
             "noOfReviews": "40"
@@ -428,7 +428,7 @@ export const products = [
             "pricing": {
                 "mrp": "500",
                 "cost": "425",
-                "discount": "15%"
+                "discount": "15"
             },
             "rating": "4.5",
             "noOfReviews": "200"
@@ -442,7 +442,7 @@ export const products = [
             "pricing": {
                 "mrp": "600",
                 "cost": "450",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -456,7 +456,7 @@ export const products = [
             "pricing": {
                 "mrp": "700",
                 "cost": "560",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.4",
             "noOfReviews": "180"
@@ -470,7 +470,7 @@ export const products = [
             "pricing": {
                 "mrp": "150",
                 "cost": "120",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.3",
             "noOfReviews": "100"
@@ -484,7 +484,7 @@ export const products = [
             "pricing": {
                 "mrp": "200",
                 "cost": "100",
-                "discount": "50%"
+                "discount": "50"
             },
             "rating": "4.5",
             "noOfReviews": "90"
@@ -498,7 +498,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "50",
-                "discount": "50%"
+                "discount": "50"
             },
             "rating": "4.4",
             "noOfReviews": "80"
@@ -512,7 +512,7 @@ export const products = [
             "pricing": {
                 "mrp": "600",
                 "cost": "450",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.6",
             "noOfReviews": "130"
@@ -526,7 +526,7 @@ export const products = [
             "pricing": {
                 "mrp": "250",
                 "cost": "75",
-                "discount": "70%"
+                "discount": "70"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -540,7 +540,7 @@ export const products = [
             "pricing": {
                 "mrp": "400",
                 "cost": "320",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.5",
             "noOfReviews": "110"
@@ -554,7 +554,7 @@ export const products = [
             "pricing": {
                 "mrp": "120",
                 "cost": "100",
-                "discount": "16.67%"
+                "discount": "16.67"
             },
             "rating": "4.4",
             "noOfReviews": "50"
@@ -568,7 +568,7 @@ export const products = [
             "pricing": {
                 "mrp": "30",
                 "cost": "12",
-                "discount": "60%"
+                "discount": "60"
             },
             "rating": "4.5",
             "noOfReviews": "100"
@@ -582,7 +582,7 @@ export const products = [
             "pricing": {
                 "mrp": "25",
                 "cost": "10",
-                "discount": "60%"
+                "discount": "60"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -596,7 +596,7 @@ export const products = [
             "pricing": {
                 "mrp": "50",
                 "cost": "40",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.4",
             "noOfReviews": "80"
@@ -610,7 +610,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "75",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.5",
             "noOfReviews": "120"
@@ -624,7 +624,7 @@ export const products = [
             "pricing": {
                 "mrp": "40",
                 "cost": "30",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -638,7 +638,7 @@ export const products = [
             "pricing": {
                 "mrp": "20",
                 "cost": "16",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.6",
             "noOfReviews": "90"
@@ -652,7 +652,7 @@ export const products = [
         //     "pricing": {
         //         "mrp": "60",
         //         "cost": "39",
-        //         "discount": "35%"
+        //         "discount": "35"
         //     },
         //     "rating": "4.4",
         //     "noOfReviews": "110"
@@ -666,7 +666,7 @@ export const products = [
         //     "pricing": {
         //         "mrp": "400",
         //         "cost": "300",
-        //         "discount": "25%"
+        //         "discount": "25"
         //     },
         //     "rating": "4.7",
         //     "noOfReviews": "200"
@@ -680,7 +680,7 @@ export const products = [
         //     "pricing": {
         //         "mrp": "70",
         //         "cost": "52.5",
-        //         "discount": "25%"
+        //         "discount": "25"
         //     },
         //     "rating": "4.5",
         //     "noOfReviews": "130"
@@ -694,7 +694,7 @@ export const products = [
         //     "pricing": {
         //         "mrp": "15",
         //         "cost": "7.5",
-        //         "discount": "50%"
+        //         "discount": "50"
         //     },
         //     "rating": "4.4",
         //     "noOfReviews": "50"
@@ -708,7 +708,7 @@ export const products = [
             "pricing": {
                 "mrp": "100",
                 "cost": "10",
-                "discount": "90%"
+                "discount": "90"
             },
             "rating": "4.5",
             "noOfReviews": "100"
@@ -722,7 +722,7 @@ export const products = [
             "pricing": {
                 "mrp": "50",
                 "cost": "10",
-                "discount": "80%"
+                "discount": "80"
             },
             "rating": "4.6",
             "noOfReviews": "150"
@@ -736,7 +736,7 @@ export const products = [
             "pricing": {
                 "mrp": "900",
                 "cost": "315",
-                "discount": "65%"
+                "discount": "65"
             },
             "rating": "4.4",
             "noOfReviews": "80"
@@ -750,7 +750,7 @@ export const products = [
             "pricing": {
                 "mrp": "150",
                 "cost": "120",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.5",
             "noOfReviews": "120"
@@ -764,7 +764,7 @@ export const products = [
             "pricing": {
                 "mrp": "300",
                 "cost": "200",
-                "discount": "33%"
+                "discount": "33"
             },
             "rating": "4.3",
             "noOfReviews": "70"
@@ -778,7 +778,7 @@ export const products = [
             "pricing": {
                 "mrp": "40",
                 "cost": "32",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.4",
             "noOfReviews": "60"
@@ -792,7 +792,7 @@ export const products = [
             "pricing": {
                 "mrp": "20",
                 "cost": "15",
-                "discount": "25%"
+                "discount": "25"
             },
             "rating": "4.2",
             "noOfReviews": "50"
@@ -806,7 +806,7 @@ export const products = [
             "pricing": {
                 "mrp": "60",
                 "cost": "48",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.5",
             "noOfReviews": "90"
@@ -820,7 +820,7 @@ export const products = [
             "pricing": {
                 "mrp": "80",
                 "cost": "50",
-                "discount": "37.5%"
+                "discount": "37.5"
             },
             "rating": "4.4",
             "noOfReviews": "40"
@@ -834,7 +834,7 @@ export const products = [
             "pricing": {
                 "mrp": "25",
                 "cost": "20",
-                "discount": "20%"
+                "discount": "20"
             },
             "rating": "4.3",
             "noOfReviews": "75"
