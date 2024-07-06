@@ -605,7 +605,7 @@ export const products = [
             "id": "44",
             "title": "Cricket Bat",
             "description": "Professional cricket bat made of high-quality willow.",
-            "images": "url_to_image_44",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/44/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/44/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/44/3.jpg"],
             "category": "sports",
             "pricing": {
                 "mrp": "100",
@@ -619,7 +619,7 @@ export const products = [
             "id": "45",
             "title": "Badminton Set",
             "description": "Badminton set with 2 rackets and 3 shuttlecocks.",
-            "images": "url_to_image_45",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/45/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/45/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/45/3.jpg"],
             "category": "sports",
             "pricing": {
                 "mrp": "40",
@@ -633,7 +633,7 @@ export const products = [
             "id": "46",
             "title": "Yoga Mat",
             "description": "Non-slip yoga mat for comfortable workouts.",
-            "images": "url_to_image_46",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/46/1.webp", "https://ecommercebackend-wveh.onrender.com/images/46/2.webp", "https://ecommercebackend-wveh.onrender.com/images/46/3.jpg"],
             "category": "sports",
             "pricing": {
                 "mrp": "20",
@@ -647,7 +647,7 @@ export const products = [
             "id": "47",
             "title": "Dumbbell Set",
             "description": "Adjustable dumbbell set for weight training.",
-            "images": "url_to_image_47",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/47/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/3.jpg"],
             "category": "sports",
             "pricing": {
                 "mrp": "60",
@@ -661,7 +661,7 @@ export const products = [
             "id": "48",
             "title": "Treadmill",
             "description": "Electric treadmill with multiple speed settings.",
-            "images": "url_to_image_48",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/48/1.webp", "https://ecommercebackend-wveh.onrender.com/images/48/2.webp", "https://ecommercebackend-wveh.onrender.com/images/48/3.webp"],
             "category": "sports",
             "pricing": {
                 "mrp": "400",
@@ -675,7 +675,7 @@ export const products = [
             "id": "49",
             "title": "Hiking Backpack",
             "description": "Durable hiking backpack with multiple compartments.",
-            "images": "url_to_image_49",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/49/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/3.jpg"],
             "category": "sports",
             "pricing": {
                 "mrp": "70",
@@ -689,7 +689,7 @@ export const products = [
             "id": "50",
             "title": "Swimming Goggles",
             "description": "Anti-fog swimming goggles with UV protection.",
-            "images": "url_to_image_50",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/50/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/3.jpg"],
             "category": "sports",
             "pricing": {
                 "mrp": "15",
