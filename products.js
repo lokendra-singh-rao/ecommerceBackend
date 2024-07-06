@@ -703,7 +703,7 @@ export const products = [
             "id": "51",
             "title": "Necklace",
             "description": "Gold plated necklace with pendant.",
-            "images": "url_to_image_51",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/50/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/3.jpg"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "100",
@@ -717,7 +717,7 @@ export const products = [
             "id": "52",
             "title": "Earrings",
             "description": "Silver stud earrings with gemstones.",
-            "images": "url_to_image_52",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/52/1.webp", "https://ecommercebackend-wveh.onrender.com/images/52/2.webp", "https://ecommercebackend-wveh.onrender.com/images/52/3.webp"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "50",
@@ -731,7 +731,7 @@ export const products = [
             "id": "53",
             "title": "Bracelet",
             "description": "Diamond bracelet with adjustable clasp.",
-            "images": "url_to_image_53",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/53/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/53/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/53/3.jpg"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "900",
@@ -745,7 +745,7 @@ export const products = [
             "id": "54",
             "title": "Ring",
             "description": "Gold ring with intricate design.",
-            "images": "url_to_image_54",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/54/1.webp", "https://ecommercebackend-wveh.onrender.com/images/54/2.webp", "https://ecommercebackend-wveh.onrender.com/images/54/3.webp"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "150",
@@ -759,7 +759,7 @@ export const products = [
             "id": "55",
             "title": "Anklet",
             "description": "Silver anklet with charms.",
-            "images": "url_to_image_55",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/55/1.avif", "https://ecommercebackend-wveh.onrender.com/images/55/2.avif", "https://ecommercebackend-wveh.onrender.com/images/55/3.avif"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "300",
