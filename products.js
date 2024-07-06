@@ -563,7 +563,7 @@ export const products = [
             "id": "41",
             "title": "Basketball",
             "description": "Official size and weight basketball.",
-            "images": "url_to_image_41",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/41/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/41/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/41/3.jpg"],
             "category": "sports",
             "pricing": {
                 "mrp": "30",
@@ -577,7 +577,7 @@ export const products = [
             "id": "42",
             "title": "Football",
             "description": "Professional grade football.",
-            "images": "url_to_image_42",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/42/1.webp", "https://ecommercebackend-wveh.onrender.com/images/42/2.webp", "https://ecommercebackend-wveh.onrender.com/images/42/3.webp"],
             "category": "sports",
             "pricing": {
                 "mrp": "25",
@@ -591,7 +591,7 @@ export const products = [
             "id": "43",
             "title": "Tennis Racket",
             "description": "Lightweight tennis racket with cover.",
-            "images": "url_to_image_43",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/43/1.webp", "https://ecommercebackend-wveh.onrender.com/images/43/2.webp", "https://ecommercebackend-wveh.onrender.com/images/43/3.webp"],
             "category": "sports",
             "pricing": {
                 "mrp": "50",
