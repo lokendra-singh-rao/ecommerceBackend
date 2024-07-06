@@ -423,7 +423,7 @@ export const products = [
             "id": "31",
             "title": "Sofa",
             "description": "Comfortable 3-seater sofa.",
-            "images": "url_to_image_31",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/31/1.webp", "https://ecommercebackend-wveh.onrender.com/images/31/2.webp", "https://ecommercebackend-wveh.onrender.com/images/31/3.webp"],
             "category": "furniture",
             "pricing": {
                 "mrp": "500",
@@ -437,7 +437,7 @@ export const products = [
             "id": "32",
             "title": "Dining Table",
             "description": "Wooden dining table with 6 chairs.",
-            "images": "url_to_image_32",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/32/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/32/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/32/3.jpg"],
             "category": "furniture",
             "pricing": {
                 "mrp": "600",
@@ -451,7 +451,7 @@ export const products = [
             "id": "33",
             "title": "Bed",
             "description": "Queen size bed with storage.",
-            "images": "url_to_image_33",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/33/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/33/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/33/3.jpg"],
             "category": "furniture",
             "pricing": {
                 "mrp": "700",
@@ -465,7 +465,7 @@ export const products = [
             "id": "34",
             "title": "Office Chair",
             "description": "Ergonomic office chair with lumbar support.",
-            "images": "url_to_image_34",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/34/1.webp", "https://ecommercebackend-wveh.onrender.com/images/34/2.webp", "https://ecommercebackend-wveh.onrender.com/images/34/3.webp"],
             "category": "furniture",
             "pricing": {
                 "mrp": "150",
@@ -479,7 +479,7 @@ export const products = [
             "id": "35",
             "title": "Bookshelf",
             "description": "5-tier bookshelf made of solid wood.",
-            "images": "url_to_image_35",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/35/1.webp", "https://ecommercebackend-wveh.onrender.com/images/35/2.webp", "https://ecommercebackend-wveh.onrender.com/images/35/3.webp"],
             "category": "furniture",
             "pricing": {
                 "mrp": "200",
@@ -493,7 +493,7 @@ export const products = [
             "id": "36",
             "title": "Coffee Table",
             "description": "Modern coffee table with glass top.",
-            "images": "url_to_image_36",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/36/1.webp", "https://ecommercebackend-wveh.onrender.com/images/36/2.webp", "https://ecommercebackend-wveh.onrender.com/images/36/3.webp"],
             "category": "furniture",
             "pricing": {
                 "mrp": "100",
@@ -507,7 +507,7 @@ export const products = [
             "id": "37",
             "title": "Wardrobe",
             "description": "Spacious wardrobe with sliding doors.",
-            "images": "url_to_image_37",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/37/1.webp", "https://ecommercebackend-wveh.onrender.com/images/37/2.webp", "https://ecommercebackend-wveh.onrender.com/images/37/3.webp"],
             "category": "furniture",
             "pricing": {
                 "mrp": "600",
@@ -521,7 +521,7 @@ export const products = [
             "id": "38",
             "title": "TV Stand",
             "description": "TV stand with multiple storage compartments.",
-            "images": "url_to_image_38",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/38/1.webp", "https://ecommercebackend-wveh.onrender.com/images/38/2.webp", "https://ecommercebackend-wveh.onrender.com/images/38/3.webp"],
             "category": "furniture",
             "pricing": {
                 "mrp": "250",
@@ -535,7 +535,7 @@ export const products = [
             "id": "39",
             "title": "Recliner",
             "description": "Recliner chair with adjustable backrest.",
-            "images": "url_to_image_39",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/39/1.webp", "https://ecommercebackend-wveh.onrender.com/images/39/2.webp", "https://ecommercebackend-wveh.onrender.com/images/39/3.webp"],
             "category": "furniture",
             "pricing": {
                 "mrp": "400",
@@ -549,7 +549,7 @@ export const products = [
             "id": "40",
             "title": "Side Table",
             "description": "Wooden side table with drawer.",
-            "images": "url_to_image_40",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/40/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/40/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/40/3.jpg"],
             "category": "furniture",
             "pricing": {
                 "mrp": "120",

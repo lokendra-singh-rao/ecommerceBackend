@@ -19,7 +19,26 @@ app.get("/", (req,res) => {
 })
 
 app.get("/products", async (req, res) => {
-    res.json(products)
+    let {rating, pricegt, pricelt, discount, reviews} = req.query
+    pricegt = pricegt || 0
+    pricelt = pricelt || 100000
+    rating = rating || 0
+    discount = discount || 0
+    reviews = reviews || 0
+    console.log("rating",rating)
+    console.log("price greater",pricegt)
+    console.log("price lower",pricelt)
+    console.log("discount",discount)
+    console.log("reviews",reviews)
+
+    const response = products.filter((product) => 
+        Number(product.rating) >= Number(rating) || 
+    Number(product.noOfReviews) >= Number(reviews) || 
+    Number(product.pricing.cost) <= Number(pricelt) || 
+    Number(product.pricing.cost) >= Number(pricegt) || 
+    Number(product.pricing.discount) >= Number(discount)
+)
+    res.json(response)
 })
 
 app.get("/products/:id", async (req,res) => {
