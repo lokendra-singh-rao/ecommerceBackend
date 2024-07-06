@@ -703,7 +703,7 @@ export const products = [
             "id": "51",
             "title": "Necklace",
             "description": "Gold plated necklace with pendant.",
-            "images": ["https://ecommercebackend-wveh.onrender.com/images/50/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/3.jpg"],
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/51/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/51/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/51/3.jpg"],
             "category": "jewellery",
             "pricing": {
                 "mrp": "100",
