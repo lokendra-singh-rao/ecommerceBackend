@@ -643,62 +643,62 @@ export const products = [
             "rating": "4.6",
             "noOfReviews": "90"
         },
-        // {
-        //     "id": "47",
-        //     "title": "Dumbbell Set",
-        //     "description": "Adjustable dumbbell set for weight training.",
-        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/47/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/3.jpg"],
-        //     "category": "sports",
-        //     "pricing": {
-        //         "mrp": "60",
-        //         "cost": "39",
-        //         "discount": "35"
-        //     },
-        //     "rating": "4.4",
-        //     "noOfReviews": "110"
-        // },
-        // {
-        //     "id": "48",
-        //     "title": "Treadmill",
-        //     "description": "Electric treadmill with multiple speed settings.",
-        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/48/1.webp", "https://ecommercebackend-wveh.onrender.com/images/48/2.webp", "https://ecommercebackend-wveh.onrender.com/images/48/3.webp"],
-        //     "category": "sports",
-        //     "pricing": {
-        //         "mrp": "400",
-        //         "cost": "300",
-        //         "discount": "25"
-        //     },
-        //     "rating": "4.7",
-        //     "noOfReviews": "200"
-        // },
-        // {
-        //     "id": "49",
-        //     "title": "Hiking Backpack",
-        //     "description": "Durable hiking backpack with multiple compartments.",
-        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/49/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/3.jpg"],
-        //     "category": "sports",
-        //     "pricing": {
-        //         "mrp": "70",
-        //         "cost": "52.5",
-        //         "discount": "25"
-        //     },
-        //     "rating": "4.5",
-        //     "noOfReviews": "130"
-        // },
-        // {
-        //     "id": "50",
-        //     "title": "Swimming Goggles",
-        //     "description": "Anti-fog swimming goggles with UV protection.",
-        //     "images": ["https://ecommercebackend-wveh.onrender.com/images/50/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/3.jpg"],
-        //     "category": "sports",
-        //     "pricing": {
-        //         "mrp": "15",
-        //         "cost": "7.5",
-        //         "discount": "50"
-        //     },
-        //     "rating": "4.4",
-        //     "noOfReviews": "50"
-        // },
+        {
+            "id": "47",
+            "title": "Dumbbell Set",
+            "description": "Adjustable dumbbell set for weight training.",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/47/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/47/3.jpg"],
+            "category": "sports",
+            "pricing": {
+                "mrp": "60",
+                "cost": "39",
+                "discount": "35"
+            },
+            "rating": "4.4",
+            "noOfReviews": "110"
+        },
+        {
+            "id": "48",
+            "title": "Treadmill",
+            "description": "Electric treadmill with multiple speed settings.",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/48/1.webp", "https://ecommercebackend-wveh.onrender.com/images/48/2.webp", "https://ecommercebackend-wveh.onrender.com/images/48/3.webp"],
+            "category": "sports",
+            "pricing": {
+                "mrp": "400",
+                "cost": "300",
+                "discount": "25"
+            },
+            "rating": "4.7",
+            "noOfReviews": "200"
+        },
+        {
+            "id": "49",
+            "title": "Hiking Backpack",
+            "description": "Durable hiking backpack with multiple compartments.",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/49/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/49/3.jpg"],
+            "category": "sports",
+            "pricing": {
+                "mrp": "70",
+                "cost": "52.5",
+                "discount": "25"
+            },
+            "rating": "4.5",
+            "noOfReviews": "130"
+        },
+        {
+            "id": "50",
+            "title": "Swimming Goggles",
+            "description": "Anti-fog swimming goggles with UV protection.",
+            "images": ["https://ecommercebackend-wveh.onrender.com/images/50/1.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/2.jpg", "https://ecommercebackend-wveh.onrender.com/images/50/3.jpg"],
+            "category": "sports",
+            "pricing": {
+                "mrp": "15",
+                "cost": "7.5",
+                "discount": "50"
+            },
+            "rating": "4.4",
+            "noOfReviews": "50"
+        },
         {
             "id": "51",
             "title": "Necklace",

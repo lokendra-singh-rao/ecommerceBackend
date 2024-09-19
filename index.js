@@ -4,8 +4,9 @@ import { products } from "./products.js";
 import { categories } from "./products.js";
 import path from "path";
 import { fileURLToPath } from "url";
+import { htmlPages } from "./utils/htmlPages.js";
 
-const port = 8080;
+const port = 8089;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const app = express();
@@ -15,16 +16,18 @@ app.use(cors());
 app.use("/images", express.static(path.join(__dirname, "images")));
 
 app.get("/", (req, res) => {
-  res.send("Welcome to ecommerce api by Lokenrao");
+  res.send(htmlPages.landing);
 });
 
 app.get("/products", async (req, res) => {
   let { rating, pricegt, pricelt, discount, reviews } = req.query;
+
   pricegt = pricegt || 0;
-  pricelt = pricelt || 100000;
+  pricelt = pricelt || 1000000;
   rating = rating || 0;
   discount = discount || 0;
   reviews = reviews || 0;
+
   const response = products.filter(
     (product) =>
       Number(product.rating) >= Number(rating) &&
@@ -36,7 +39,7 @@ app.get("/products", async (req, res) => {
   res.json(response);
 });
 
-app.get("/products/:id", async (req, res) => {
+app.get("/product/:id", async (req, res) => {
   const { id } = req.params;
   const response = products.find((product) => product.id === id);
   res.json(response);
